@@ -10,6 +10,11 @@ Este projeto é um aplicativo Streamlit que utiliza modelos de machine learning 
       https://colab.research.google.com/drive/1SxZahJLFxebZ2we1ZKvpr3j0KcTO4bog#scrollTo=ZPWKLknzX1XI
 
 
+## Vídeo de apresentação do MVP:
+
+      https://bit.ly/3BpKn0b
+
+
 ## Bibliotecas Usadas
 
 * **Streamlit:** Para construir a interface do usuário do aplicativo.
