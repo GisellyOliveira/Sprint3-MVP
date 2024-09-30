@@ -6,8 +6,8 @@ import streamlit as st
 
 #Configurações da página:
 st.set_page_config(
-    page_title = 'Copper Modelling',
-    page_icon = '🏭',
+    page_title = 'MVP_PUC-Rio',
+    page_icon = '🧠',
     layout = 'wide')
 
 st.title(":blue[Previsão do Preço Industrial do Cobre⚛️]")
